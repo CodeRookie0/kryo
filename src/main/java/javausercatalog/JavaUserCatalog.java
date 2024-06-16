@@ -15,10 +15,6 @@ import java.util.Scanner;
 import interfaces.UserSerializerInterface;
 import model.User;
 
-/**
- *
- * @author maria
- */
 public class JavaUserCatalog {
     private List<User> users;
     private UserSerializerInterface csvSerializer = new CSVSerializer();
