@@ -1,0 +1,8 @@
+services\XMLSerializer.class
+interfaces\UserSerializerInterface.class
+javausercatalog\JavaUserCatalog.class
+services\JSONSerializer$1.class
+services\JSONSerializer.class
+model\User.class
+services\BinarySerializer.class
+services\CSVSerializer.class
