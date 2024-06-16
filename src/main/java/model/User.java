@@ -5,10 +5,7 @@
 package model;
 import java.io.Serializable;
 import java.util.regex.Pattern;
-/**
- *
- * @author maria
- */
+
 public class User implements Serializable{
     public String firstName;
     public String lastName;
