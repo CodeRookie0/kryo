@@ -8,10 +8,6 @@ import java.io.IOException;
 import java.util.List;
 import model.User;
 
-/**
- *
- * @author maria
- */
 public interface UserSerializerInterface {
     public void serialize(List<User> users, String filename) throws IOException;
     public List<User> deserialize(String filename) throws IOException, ClassNotFoundException;
